@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+elf = "build/embedded_os_lab.elf"
+firmware = "build/embedded_os_lab.bin"
